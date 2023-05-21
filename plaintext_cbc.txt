@@ -1,0 +1,2 @@
+Q1: Basic CBC mode encryption needs padding.
+Q2: Our implementation uses rand. IV 
